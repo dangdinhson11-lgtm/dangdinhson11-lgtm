@@ -7,6 +7,3 @@
 
 Welcome to my profile! I'm a student, designer, part-time coder and full-time gamer.
 ## I will update soon!!!
-<p align="center">
-  <img src="https://media1.tenor.com/images/997f51a623dbcd633e22e7fac94c36f3/tenor.gif?itemid=5064788" width="300" />
-</p>
